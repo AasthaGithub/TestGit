@@ -1,1 +1,5 @@
-First text file,now modified
+Board games review predictor is an ML model built to predict the ratings of any board game beforehand its release on the basis of linear regressor and random forest model trained on games dataset available on kaggle.(Motivation-A project on Eduonix)
+
+Iris Classificaton Model, which is termed as Hello World program of machine learning here classifies flowers into the three classes or more aptly, predicts which class they belong to using petal and sepal length & widths as learning parameters. 
+
+Hands on Python Module gives solutions of basic programming problems in python.(Assignment on edugrad)
