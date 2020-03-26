@@ -1,5 +1,4 @@
 # TestGit
-This is for testing git\n
+This is for testing git
 First Repo.
-\n
 Project Directory
